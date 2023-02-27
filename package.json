@@ -1,0 +1,21 @@
+{
+  "name": "MyServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "openai": "^3.1.0",
+    "pdf2json": "^3.0.3",
+    "pdfjs-dist": "^3.3.122",
+    "request": "^2.88.2"
+  },
+  "type": "module"
+}
